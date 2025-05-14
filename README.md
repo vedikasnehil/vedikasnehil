@@ -44,4 +44,4 @@ Here are some projects I’m working on or have completed:
 
 Let’s share knowledge and grow together in this data journey!
 
-- [LinkedIn](#) *(Add your profile link)*
+- [LinkedIn](#) *(https://www.linkedin.com/in/vedika-snehil75050/)*
